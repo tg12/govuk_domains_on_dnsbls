@@ -1,4 +1,3 @@
-# govuk_domains_on_dnsbls
 # Which .gov.uk domains are on DNSBL's
 
 Domain Name System Blacklists (DNSBLs) are spam blocking lists which contain a number of IPs (mailserver IPs) which have been reported as sending out spam. Blocklisting happens for any number of reasons, most typically when an IP address is suspected of sending spam. Continual blocklisting will affect your IP reputation because your IP address will be identified as a regular source of spam. 
