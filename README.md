@@ -4,7 +4,7 @@ Domain Name System Blacklists (DNSBLs) are spam blocking lists which contain a n
 
 Once you’re listed- as the name indicates- you’re “black-listed”- much of your email won’t be reaching its destination, and traffic to your websites could be limited. If your business relies on email - either as a tool, or a product- then the longer you’re listed, the worst it is for your bottom line, and your reputation. It looks really bad if your customers email you, and get a bounce message indicating that your email system has been blocked.
 
-In summary, If your IP lands up there, you are doing something wrong... or something is wrong with your network configuration.
+**In summary, If your IP lands up there, you are doing something wrong... or something is wrong with your network configuration.**
 
 https://en.wikipedia.org/wiki/Domain_Name_System-based_Blackhole_List
 
